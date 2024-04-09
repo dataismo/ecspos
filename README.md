@@ -1,7 +1,12 @@
 
-# ECSPOS Package Documentation
+# ECSPOS
 
 The `ecspos` package is designed to facilitate interactions with printers that support the ESC/POS protocol, providing a streamlined API for common printing tasks including text printing, alignment, and image processing.
+
+
+~~~shell
+go get github.com/dataismo/ecspos
+~~~
 
 ## Types and Constructors
 
